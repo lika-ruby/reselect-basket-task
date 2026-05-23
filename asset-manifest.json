@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reselect-basket-task/static/css/main.f855e6bc.css",
+    "main.js": "/reselect-basket-task/static/js/main.74153aaa.js",
+    "static/js/67.f387b780.chunk.js": "/reselect-basket-task/static/js/67.f387b780.chunk.js",
+    "static/js/610.df82ea48.chunk.js": "/reselect-basket-task/static/js/610.df82ea48.chunk.js",
+    "index.html": "/reselect-basket-task/index.html",
+    "main.f855e6bc.css.map": "/reselect-basket-task/static/css/main.f855e6bc.css.map",
+    "main.74153aaa.js.map": "/reselect-basket-task/static/js/main.74153aaa.js.map",
+    "67.f387b780.chunk.js.map": "/reselect-basket-task/static/js/67.f387b780.chunk.js.map",
+    "610.df82ea48.chunk.js.map": "/reselect-basket-task/static/js/610.df82ea48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.74153aaa.js"
+  ]
+}
