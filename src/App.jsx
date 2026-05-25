@@ -9,7 +9,7 @@ const HomePage = lazy(() => import("./pages/HomePage.jsx"));
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/reselect-basket-task">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
